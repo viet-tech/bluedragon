@@ -1,0 +1,21 @@
+BlueDragon cryptocurrency.
+
+POW/POS
+RPCPort: 18881
+P2PPort: 18885
+
+7% POS Interest per Year
+Min Stake Age 8 Hours
+Unlimited Days
+
+60 seconds
+
+block 1-2800 = 10,000
+block  2800-5600 = 5,000
+block  5600-8400 = 2,500
+block  8400-10,200 = 1,250
+
+
+POS Begin At Block 200
+
+
